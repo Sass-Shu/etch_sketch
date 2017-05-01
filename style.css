@@ -1,0 +1,40 @@
+.gridContain {
+	width: 832px;
+}
+.standardthing {
+    width: 50px;
+    height: 50px;
+    float: left;
+   	background-color: #6ED4BF;
+   	border-radius: 2px;
+   	margin: 1px;
+}
+.gridHorizontal {
+    width: 832px;
+    height: 51px;
+}
+
+.hoverthing {
+    width: 50px;
+    height: 50px;
+    float: left;
+   	background-color: #D46E90;
+   	border-radius: 10px;
+   	margin: 1px;
+}
+
+.newButton {
+    width: 832px;
+    height: 50px;
+    float: left;
+   	background-color: #906ED4;
+   	color: #FEFEFE;
+   	border-radius: 10px;
+   	margin: 1px;
+   	text-align: center;
+   	font-size: 36px;
+   	vertical-align: bottom;
+   	font-family: Arial;
+
+}
+
